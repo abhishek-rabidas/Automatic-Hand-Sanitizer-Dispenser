@@ -1,11 +1,5 @@
-
-/*
- * Created by ASHIQ SHIBU (MAKER Q)
- * Project: Line following robot with obstacle avoidance
- * https://www.youtube.com/watch?v=Py2lBehF9rA
- */
-  int vSpeed = 110;                      
-  int turn_speed = 230;       // 0 - 255  max
+int vSpeed = 110;                      
+int turn_speed = 230;       // 0 - 255  max
   int t_p_speed = 125;
   int stop_distance = 12;
   int turn_delay = 10;
